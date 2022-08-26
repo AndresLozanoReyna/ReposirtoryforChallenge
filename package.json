@@ -1,0 +1,14 @@
+{
+  "name": "fleekautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
